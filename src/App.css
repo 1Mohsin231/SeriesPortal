@@ -1,0 +1,60 @@
+/* h1{
+  border: 5px double greenyellow;
+  width: 25%;
+  color:aqua;
+  margin: auto;
+}
+
+li {
+ 
+  list-style: none;
+  
+}
+a {
+  text-decoration: none;
+  padding: 5px;
+  color: black;
+}
+
+ul {
+  display: flex;
+ 
+}
+li{
+  padding: 5px;
+}
+
+li:hover {
+ background-color: green;
+ border-radius: 10px;
+} */
+
+.comp01{
+  background-color: orange;
+ height: 300px;
+ 
+}
+
+.comp02{
+  background-color: green;
+  height: 620px;
+  width: 350px;
+}
+
+.comp03{
+  background-color: blue;
+ height:300px ;
+ width: 1200px;
+}
+.comp04{
+  background-color: red;
+  height:300px ;
+ width: 1200px;
+}
+ .page{
+   display: flex;
+  
+ }
+ .right{
+   width: 600px;
+ }
